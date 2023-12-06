@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "React_Native_Course",
-    "slug": "React_Native_Course"
+    "slug": "React_Native_Course",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "15d2087e-5b36-4e0b-9ad2-868d25f9a2a1"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/15d2087e-5b36-4e0b-9ad2-868d25f9a2a1"
+    },
+    "android": {},
+    "ios": {}
   }
 }
